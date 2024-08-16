@@ -1,0 +1,8 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/TestScanning/TestScanning/bin/Debug/net8.0
+/TestScanning/TestScanning/obj
+/TestScanning/TestScanning.Client/bin/Debug/net8.0
+/TestScanning/TestScanning.Client/obj
