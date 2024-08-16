@@ -6,3 +6,5 @@
 /TestScanning/TestScanning/obj
 /TestScanning/TestScanning.Client/bin/Debug/net8.0
 /TestScanning/TestScanning.Client/obj
+/.vs
+/TestScanning/.vs/TestScanning
